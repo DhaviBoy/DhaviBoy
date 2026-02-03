@@ -14,12 +14,7 @@
 ### 💻 Software Engineer • ⚙️ Tech Innovator • ☁️ Fullstack Developer • 📚 Lifelong Learner
 
 ---
-<div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/Role-Software%20Engineer-blue?style=for-the-badge&logo=java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Mindset-Lifelong%20Learner%20%7C%20Problem%20Solver-brightgreen?style=for-the-badge&logo=lightbulb&logoColor=white"/>
-  </p>
-</div>
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
@@ -31,4 +26,17 @@
 - 👯 Open to collaborate on *open-source automation* & *cloud projects*.   
 - 📫 Reach me: [dhavishkaadhikari@gmail.com](mailto:dhavishkaadhikari@gmail.com) | [LinkedIn](https://www.linkedin.com/in/dhavishka-adhikari-614342267/)  
   
+---
+
+## 🧰 Skills & Technologies
+
+| 🧩 Area | 🛠️ Technologies & Tools |
+|:--|:--|
+| 💬 Programming Languages | Java, JavaScript |
+| 🌐 Web / Back-end | Express.js, REST APIs, Node.js |
+| 🗃️ Databases | MongoDB |
+| 🎨 Front-end | HTML5, CSS3, React.js |
+| 🔄 Version Control | Git, GitHub |
+| 💬 Cloud Technologies | AWS |
+
 ---
