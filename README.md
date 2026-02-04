@@ -42,10 +42,10 @@
 ---
 
 ## 🏆 Highlights
-- 🧠 Built & deployed full Java web app in tight deadlines  
-- 🤖 Automated 70%+ of UI regression tests  
-- 💡 Contributed to open-source automation tools  
-- ☁️ Migrating local systems to AWS microservices  
+- 🧠 Built full-stack web applications using modern technologies
+- 💻 Developed responsive and user-friendly interfaces
+- ⚙️ Implemented backend logic and RESTful APIs
+- ☁️ Learning cloud and deployment practices  
 
 ---
 
