@@ -40,3 +40,12 @@
 | 💬 Cloud Technologies | AWS |
 
 ---
+
+## 🏆 Highlights
+- 🧠 Built & deployed full Java web app in tight deadlines  
+- 🤖 Automated 70%+ of UI regression tests  
+- 💡 Contributed to open-source automation tools  
+- ☁️ Migrating local systems to AWS microservices  
+
+---
+
