@@ -53,11 +53,4 @@
   <img src ="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt= "Express.js">
 </p>
 
-## 🏆 Highlights
-- 🧠 Built full-stack web applications using modern technologies
-- 💻 Developed responsive and user-friendly interfaces
-- ⚙️ Implemented backend logic and RESTful APIs
-- ☁️ Learning cloud and deployment practices  
-
----
 
